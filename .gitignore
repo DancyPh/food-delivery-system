@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+
+# env
+.env
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# build
+dist/
+build/
+
+# vscode
+.vscode/
+
+# mac
+.DS_Store
+
+# uploads
+uploads/
+
+# coverage
+coverage/
